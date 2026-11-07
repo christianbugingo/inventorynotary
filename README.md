@@ -40,4 +40,4 @@ Receipts are simple sales records, not tax or fiscal invoices. The shop owner is
 
 ### Support
 
-Contact: [YOUR EMAIL]
+Contact: chrisbugingojax@gmail.com
